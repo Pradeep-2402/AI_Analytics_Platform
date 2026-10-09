@@ -1,0 +1,240 @@
+/* ─── IMPORT FONTS ──────────────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap');
+
+/* ─── MAIN BACKGROUND ───────────────────────────────────────────────────────── */
+.stApp {
+    background-color: #0E1117;
+}
+
+/* ─── KPI CARDS ─────────────────────────────────────────────────────────────── */
+.kpi-card {
+    background: #1E1E2E;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #00D4FF;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.kpi-title {
+    font-size: 18px;
+    color: #B0B0B0;
+}
+
+.kpi-value {
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFD700;
+}
+
+/* ─── SECTION HEADERS ───────────────────────────────────────────────────────── */
+.section-header,
+.section-title,
+h1, h2, h3 {
+    color: #FFD700 !important;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* ─── METRIC LABELS & VALUES ─────────────────────────────────────────────────── */
+[data-testid="stMetricLabel"],
+[data-testid="stMetricLabel"] p {
+    color: #FFD700 !important;
+    font-weight: bold !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #FFD700 !important;
+    font-weight: bold !important;
+}
+
+/* ─── SUCCESS MESSAGES ──────────────────────────────────────────────────────── */
+.success-text {
+    color: #90EE90;
+    font-weight: bold;
+}
+
+/* ─── SIDEBAR ───────────────────────────────────────────────────────────────── */
+section[data-testid="stSidebar"] * {
+    color: white;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   DATAFRAME / TABLE  —  black background · white text · white cell borders
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* Outer wrapper */
+[data-testid="stDataFrame"],
+[data-testid="stDataFrame"] > div,
+[data-testid="stDataFrame"] > div > div {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+    border-radius: 6px !important;
+}
+
+/* Glide data editor canvas wrapper */
+.glideDataEditor,
+.glideDataEditor > div,
+.dvn-scroller {
+    background-color: #000000 !important;
+}
+
+/* Every text node inside the table */
+[data-testid="stDataFrame"] *,
+.glideDataEditor * {
+    color: #ffffff !important;
+}
+
+/* Column header row */
+[role="columnheader"] {
+    background-color: #111111 !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+    border-right:  1px solid #ffffff !important;
+    border-bottom: 2px solid #ffffff !important;
+}
+
+/* Data cells */
+[role="gridcell"] {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    border-right:  1px solid #ffffff !important;
+    border-bottom: 1px solid #ffffff !important;
+}
+
+/* Row-index / sticky first column */
+[role="rowheader"] {
+    background-color: #111111 !important;
+    color: #ffffff !important;
+    border-right:  1px solid #ffffff !important;
+    border-bottom: 1px solid #ffffff !important;
+}
+
+/* Alternating row tint (keep readable on black) */
+[role="row"]:nth-child(even) [role="gridcell"] {
+    background-color: #0d0d0d !important;
+}
+
+/* Hover highlight */
+[role="row"]:hover [role="gridcell"] {
+    background-color: #1a1a1a !important;
+}
+
+/* Scrollbar inside table */
+[data-testid="stDataFrame"] ::-webkit-scrollbar {
+    width:  6px;
+    height: 6px;
+}
+[data-testid="stDataFrame"] ::-webkit-scrollbar-track {
+    background: #000000;
+}
+[data-testid="stDataFrame"] ::-webkit-scrollbar-thumb {
+    background: #ffffff44;
+    border-radius: 3px;
+}
+[data-testid="stDataFrame"] ::-webkit-scrollbar-thumb:hover {
+    background: #ffffff99;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   FILE UPLOADER — animated glowing coloured button
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* Keyframes */
+@keyframes uploadPulse {
+    0%   { box-shadow: 0 0 0px  4px rgba(0, 212, 255, 0.0),
+                       0 0 0px  8px rgba(124, 58, 237, 0.0); }
+    50%  { box-shadow: 0 0 14px 6px rgba(0, 212, 255, 0.55),
+                       0 0 28px 12px rgba(124, 58, 237, 0.30); }
+    100% { box-shadow: 0 0 0px  4px rgba(0, 212, 255, 0.0),
+                       0 0 0px  8px rgba(124, 58, 237, 0.0); }
+}
+
+@keyframes uploadGradient {
+    0%   { background-position: 0%   50%; }
+    50%  { background-position: 100% 50%; }
+    100% { background-position: 0%   50%; }
+}
+
+@keyframes uploadBorderSpin {
+    0%   { border-color: #00d4ff; }
+    25%  { border-color: #7c3aed; }
+    50%  { border-color: #10b981; }
+    75%  { border-color: #f59e0b; }
+    100% { border-color: #00d4ff; }
+}
+
+/* The "Browse files" button Streamlit renders */
+[data-testid="stFileUploader"] button,
+[data-testid="stFileUploaderDropzone"] button {
+    background: linear-gradient(
+        135deg,
+        #00d4ff 0%,
+        #7c3aed 40%,
+        #10b981 70%,
+        #00d4ff 100%
+    ) !important;
+    background-size: 300% 300% !important;
+    animation:
+        uploadGradient 3s ease infinite,
+        uploadPulse    2.5s ease-in-out infinite !important;
+    color: #ffffff !important;
+    font-family: 'Exo 2', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 0.88rem !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    border: none !important;
+    border-radius: 10px !important;
+    padding: 10px 28px !important;
+    cursor: pointer !important;
+    transition: transform 0.2s ease, filter 0.2s ease !important;
+}
+
+[data-testid="stFileUploader"] button:hover,
+[data-testid="stFileUploaderDropzone"] button:hover {
+    transform: translateY(-3px) scale(1.04) !important;
+    filter: brightness(1.15) !important;
+}
+
+[data-testid="stFileUploader"] button:active,
+[data-testid="stFileUploaderDropzone"] button:active {
+    transform: translateY(0) scale(1.0) !important;
+}
+
+/* Drop zone border also animates */
+[data-testid="stFileUploader"],
+[data-testid="stFileUploaderDropzone"] {
+    border: 2px solid #00d4ff !important;
+    border-radius: 12px !important;
+    padding: 24px !important;
+    animation: uploadBorderSpin 4s linear infinite !important;
+    transition: background 0.3s !important;
+}
+
+[data-testid="stFileUploader"]:hover,
+[data-testid="stFileUploaderDropzone"]:hover {
+    background: rgba(0, 212, 255, 0.06) !important;
+}
+
+/* Drag-and-drop instruction text */
+[data-testid="stFileUploaderDropzoneInstructions"] {
+    color: #94a3b8 !important;
+    font-size: 0.85rem !important;
+}
+
+/* ─── REGULAR BUTTONS (non-upload) ──────────────────────────────────────────── */
+.stButton > button {
+    background-color: #00D4FF !important;
+    color: #000000 !important;
+    border-radius: 10px !important;
+    font-weight: bold !important;
+    border: none !important;
+    transition: transform 0.15s ease, box-shadow 0.15s ease !important;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 0 18px rgba(0, 212, 255, 0.55) !important;
+}

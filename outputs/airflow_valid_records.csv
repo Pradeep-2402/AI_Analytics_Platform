@@ -1,0 +1,239 @@
+Order_ID,Customer_ID,Product,Category,Quantity,Unit_Price,Total_Sales,Payment_Method,Order_Status,City,Order_Date,Delivery_Date
+2,6e8fe6b7,Webcam,Accessories,3.0,29677.0,89031.0,UPI,Delivered,Chennai,2025-03-18,2025-04-17
+3,cf02f5bc,Smartphone,Computers,4.0,72750.0,291000.0,UPI,Shipped,Chennai,2025-06-11,2025-02-17
+7,51d8fb62,Monitor,Accessories,5.0,60286.0,301430.0,COD,Shipped,Mumbai,2025-01-01,2025-04-12
+9,a6759469,Speaker,Accessories,3.0,74519.0,223557.0,Credit Card,Pending,Chennai,2025-09-24,2025-09-24
+11,39a882d6,Printer,Mobile,3.0,39075.0,117225.0,Credit Card,Pending,Pune,2024-08-30,2025-07-16
+13,72336f6c,Headphones,Electronics,2.0,33028.0,66056.0,COD,Delivered,Mumbai,2024-08-26,2025-01-11
+15,c5bf6a49,Keyboard,Accessories,2.0,33603.0,67206.0,UPI,Pending,Pune,2025-09-03,2025-07-16
+20,f3b6c882,Printer,Mobile,1.0,6218.0,6218.0,Credit Card,Cancelled,Chennai,2025-12-24,2025-05-05
+21,fd923073,Monitor,Computers,2.0,22191.0,44382.0,Credit Card,Delivered,Pune,2024-09-24,2025-11-05
+22,b2f7a9fe,Laptop,Computers,5.0,45977.0,229885.0,Net Banking,Cancelled,Chennai,2025-04-01,2025-12-06
+25,e3351c6e,Mouse,Mobile,5.0,29561.0,147805.0,Credit Card,Cancelled,Mumbai,2025-06-21,2025-05-10
+29,a28f6cf9,Tablet,Electronics,5.0,62420.0,312100.0,Net Banking,Cancelled,Bangalore,2026-03-22,2024-10-08
+31,e1516594,Webcam,Electronics,5.0,36420.0,182100.0,COD,Cancelled,Pune,2025-10-17,2026-03-17
+35,d2620d34,Keyboard,Computers,5.0,24993.0,124965.0,Debit Card,Pending,Pune,2024-12-12,2024-09-25
+36,d21221de,Mouse,Audio,2.0,68829.0,137658.0,UPI,Delivered,Bangalore,2026-02-11,2025-07-31
+37,2aa6398a,Keyboard,Computers,5.0,6572.0,32860.0,COD,Returned,Bangalore,2025-05-07,2026-01-17
+38,6313337c,Smartphone,Electronics,4.0,63013.0,252052.0,Debit Card,Delivered,Bangalore,2025-06-16,2026-01-07
+41,aeb71893,Tablet,Mobile,5.0,9480.0,47400.0,Debit Card,Pending,Mumbai,2026-04-09,2024-08-21
+42,80b6d280,Smartphone,Accessories,2.0,79785.0,159570.0,COD,Shipped,Pune,2025-05-25,2024-07-17
+44,0b946aad,Monitor,Mobile,5.0,62525.0,312625.0,Credit Card,Returned,Bangalore,2026-01-05,2024-10-19
+45,d82e7dd8,Printer,Audio,1.0,67660.0,67660.0,Net Banking,Pending,Mumbai,2025-07-13,2025-01-02
+48,45a9e1d8,Smartphone,Audio,5.0,4907.0,24535.0,UPI,Pending,Hyderabad,2025-04-12,2025-05-02
+50,3692ac45,Speaker,Electronics,4.0,12394.0,49576.0,COD,Cancelled,Hyderabad,2024-11-26,2025-08-11
+51,cf701e56,Mouse,Audio,3.0,22496.0,67488.0,Net Banking,Cancelled,Mumbai,2025-02-19,2025-02-28
+53,cbdf0a03,Smartphone,Accessories,5.0,63567.0,317835.0,COD,Returned,Pune,2025-04-02,2024-09-25
+54,6b473ab0,Mouse,Audio,3.0,31890.0,95670.0,UPI,Returned,Pune,2026-02-15,2024-07-22
+55,6fa13dfc,Printer,Audio,2.0,72599.0,145198.0,UPI,Pending,Delhi,2024-06-30,2025-09-02
+59,772975b2,Keyboard,Audio,1.0,32413.0,32413.0,Credit Card,Returned,Delhi,2024-09-16,2024-07-03
+60,59daefb7,Keyboard,Accessories,1.0,28052.0,28052.0,UPI,Cancelled,Chennai,2026-03-04,2024-10-22
+61,21cf7e86,Headphones,Computers,1.0,56800.0,56800.0,Debit Card,Returned,Mumbai,2025-06-03,2025-01-14
+62,e29c8e3c,Webcam,Electronics,4.0,3919.0,15676.0,UPI,Returned,Hyderabad,2026-04-12,2026-02-23
+63,c56a13f2,Speaker,Audio,1.0,79381.0,79381.0,Debit Card,Pending,Hyderabad,2026-04-21,2025-09-27
+65,7942e8d0,Smartphone,Computers,5.0,61232.0,306160.0,Net Banking,Pending,Mumbai,2026-03-09,2024-07-25
+66,a5d220c2,Smartphone,Computers,2.0,2582.0,5164.0,Credit Card,Pending,Pune,2024-08-27,2025-12-10
+67,cbfc87fb,Laptop,Accessories,2.0,14675.0,29350.0,Credit Card,Shipped,Chennai,2024-08-28,2025-09-03
+68,3540648f,Monitor,Electronics,2.0,59528.0,119056.0,Net Banking,Returned,Bangalore,2025-11-26,2024-07-27
+69,4db9c372,Laptop,Electronics,4.0,30799.0,123196.0,UPI,Pending,Bangalore,2026-03-05,2025-02-16
+70,db4b6e51,Tablet,Audio,1.0,22344.0,22344.0,COD,Returned,Chennai,2025-01-16,2024-10-07
+71,540e7cda,Tablet,Electronics,5.0,14058.0,70290.0,Credit Card,Shipped,Mumbai,2025-10-24,2025-10-08
+72,b7990c70,Smartphone,Computers,5.0,11837.0,59185.0,UPI,Delivered,Pune,2024-10-25,2025-09-30
+75,bab9d1a8,Speaker,Computers,2.0,29647.0,59294.0,Credit Card,Cancelled,Delhi,2025-05-29,2025-12-19
+80,3fa5d61d,Headphones,Computers,4.0,75803.0,303212.0,COD,Cancelled,Pune,2024-09-10,2025-05-09
+81,e9615beb,Tablet,Mobile,3.0,42896.0,128688.0,Debit Card,Delivered,Delhi,2025-03-29,2024-10-04
+82,c46b797c,Laptop,Computers,1.0,11153.0,11153.0,Net Banking,Shipped,Hyderabad,2025-05-27,2025-12-11
+84,9a0b0264,Smartphone,Audio,4.0,29991.0,119964.0,Debit Card,Returned,Pune,2025-03-19,2025-08-03
+87,587abe06,Printer,Accessories,4.0,67491.0,269964.0,COD,Cancelled,Delhi,2025-12-01,2025-12-27
+89,6874bd11,Keyboard,Audio,4.0,67932.0,271728.0,UPI,Delivered,Pune,2026-03-03,2024-11-15
+90,6325a7b0,Laptop,Computers,4.0,1203.0,4812.0,UPI,Cancelled,Bangalore,2025-01-22,2025-04-29
+93,5f489c37,Headphones,Mobile,3.0,6200.0,18600.0,Debit Card,Pending,Bangalore,2025-03-05,2025-12-17
+96,e599d007,Tablet,Mobile,1.0,43175.0,43175.0,COD,Pending,Delhi,2024-07-30,2024-12-19
+97,de126526,Headphones,Computers,3.0,11346.0,34038.0,Credit Card,Cancelled,Chennai,2025-03-12,2024-09-05
+100,a48d080b,Monitor,Accessories,5.0,8990.0,44950.0,Debit Card,Delivered,Pune,2025-12-29,2025-03-02
+101,b4fdea4c,Headphones,Accessories,4.0,23529.0,94116.0,UPI,Cancelled,Hyderabad,2024-10-18,2025-10-08
+107,e3313b97,Keyboard,Computers,4.0,39919.0,159676.0,Debit Card,Pending,Pune,2026-03-21,2026-06-11
+108,0276f079,Monitor,Audio,3.0,23624.0,70872.0,Credit Card,Pending,Hyderabad,2025-03-13,2024-12-03
+109,793ac6db,Mouse,Mobile,2.0,67844.0,135688.0,Credit Card,Cancelled,Hyderabad,2024-11-11,2026-02-19
+110,afd07210,Laptop,Computers,3.0,59506.0,178518.0,COD,Pending,Chennai,2025-04-22,2025-01-13
+111,50562b5e,Tablet,Electronics,2.0,79170.0,158340.0,Debit Card,Returned,Chennai,2024-10-12,2026-05-09
+112,600385f4,Keyboard,Accessories,1.0,10086.0,10086.0,Net Banking,Pending,Chennai,2025-08-03,2024-06-11
+113,f05d486c,Tablet,Computers,3.0,17861.0,53583.0,COD,Delivered,Bangalore,2025-08-02,2026-03-01
+116,6c79b4b1,Webcam,Electronics,1.0,74476.0,74476.0,Debit Card,Cancelled,Mumbai,2025-12-28,2026-05-26
+120,71b9fe67,Speaker,Electronics,5.0,7906.0,39530.0,Credit Card,Cancelled,Pune,2024-07-17,2024-07-19
+121,90714b0f,Tablet,Accessories,3.0,55850.0,167550.0,UPI,Returned,Pune,2025-10-26,2025-03-02
+122,35426cf2,Headphones,Accessories,1.0,8794.0,8794.0,Net Banking,Delivered,Chennai,2025-02-18,2026-03-03
+123,9cd44ff2,Monitor,Mobile,1.0,10088.0,10088.0,UPI,Shipped,Mumbai,2024-12-08,2025-01-12
+124,5fbb41a9,Tablet,Computers,1.0,51256.0,51256.0,COD,Delivered,Chennai,2026-02-21,2025-07-05
+128,46226471,Speaker,Accessories,3.0,79041.0,237123.0,Credit Card,Returned,Pune,2026-01-03,2024-07-26
+131,b6097d86,Smartphone,Audio,4.0,64054.0,256216.0,UPI,Delivered,Delhi,2026-05-03,2024-08-11
+134,8b16bcec,Monitor,Mobile,2.0,19068.0,38136.0,UPI,Cancelled,Mumbai,2025-12-01,2026-05-29
+137,6f31a32e,Tablet,Accessories,4.0,768.0,3072.0,UPI,Returned,Mumbai,2026-03-14,2026-01-31
+138,079c6507,Headphones,Computers,3.0,77181.0,231543.0,COD,Pending,Pune,2026-01-21,2025-03-28
+140,478abb5a,Monitor,Audio,3.0,21240.0,63720.0,Debit Card,Pending,Hyderabad,2025-02-05,2025-08-17
+144,fdd0901b,Tablet,Computers,4.0,44100.0,176400.0,Net Banking,Shipped,Pune,2025-10-17,2024-09-19
+145,60aa7ce4,Mouse,Audio,1.0,53900.0,53900.0,Debit Card,Returned,Bangalore,2024-07-20,2026-05-11
+146,894d50dd,Headphones,Accessories,2.0,42037.0,84074.0,Debit Card,Cancelled,Bangalore,2024-08-11,2025-07-22
+147,c50ab8ce,Webcam,Electronics,5.0,5903.0,29515.0,Net Banking,Pending,Bangalore,2025-02-15,2024-07-28
+150,390db55e,Smartphone,Mobile,2.0,69670.0,139340.0,UPI,Shipped,Delhi,2026-02-03,2025-06-03
+151,f58f1269,Webcam,Computers,1.0,75188.0,75188.0,Net Banking,Delivered,Mumbai,2026-05-30,2026-01-29
+152,f67f3a37,Printer,Audio,4.0,66418.0,265672.0,Credit Card,Returned,Bangalore,2025-08-30,2025-05-30
+154,45df0034,Laptop,Accessories,3.0,6500.0,19500.0,UPI,Delivered,Pune,2025-03-05,2025-06-19
+155,d0991c60,Tablet,Electronics,1.0,78566.0,78566.0,Net Banking,Cancelled,Chennai,2025-05-14,2024-12-25
+160,f52a9725,Printer,Computers,2.0,39437.0,78874.0,UPI,Returned,Bangalore,2024-06-24,2024-11-21
+161,a6c3a6bf,Speaker,Electronics,5.0,33465.0,167325.0,Debit Card,Shipped,Chennai,2025-07-18,2026-01-24
+162,5e9203c3,Tablet,Accessories,2.0,74027.0,148054.0,COD,Pending,Pune,2026-02-01,2026-03-19
+163,acf3f660,Speaker,Audio,3.0,65003.0,195009.0,COD,Cancelled,Hyderabad,2026-05-12,2025-06-27
+166,b731502f,Mouse,Computers,1.0,54360.0,54360.0,Debit Card,Returned,Hyderabad,2024-08-03,2025-12-04
+167,1c1b30c4,Monitor,Computers,1.0,19125.0,19125.0,COD,Returned,Hyderabad,2026-03-29,2024-10-30
+169,78214dac,Laptop,Computers,3.0,5409.0,16227.0,Credit Card,Delivered,Chennai,2024-08-14,2024-08-26
+170,14a86f13,Webcam,Electronics,3.0,7124.0,21372.0,Net Banking,Cancelled,Delhi,2024-11-11,2025-05-12
+171,8011c152,Smartphone,Computers,5.0,13834.0,69170.0,Debit Card,Delivered,Pune,2025-09-01,2024-11-12
+176,198bfffd,Monitor,Accessories,5.0,24272.0,121360.0,COD,Pending,Hyderabad,2025-11-01,2025-02-16
+178,e0cd9ea5,Laptop,Mobile,5.0,51456.0,257280.0,Net Banking,Pending,Delhi,2026-03-26,2024-08-03
+179,2d813c45,Headphones,Electronics,4.0,17382.0,69528.0,Credit Card,Shipped,Delhi,2024-09-02,2026-01-10
+180,a8983383,Mouse,Electronics,2.0,71968.0,143936.0,Debit Card,Cancelled,Mumbai,2025-08-17,2024-11-24
+183,bb17a2b5,Smartphone,Mobile,5.0,19739.0,98695.0,Credit Card,Pending,Delhi,2026-02-01,2024-09-13
+185,0ada62cc,Webcam,Electronics,2.0,21548.0,43096.0,Net Banking,Shipped,Hyderabad,2024-07-15,2024-09-27
+186,93af9c2e,Smartphone,Electronics,3.0,67825.0,203475.0,Debit Card,Pending,Hyderabad,2025-02-09,2025-03-16
+188,fb385f1c,Speaker,Electronics,4.0,66217.0,264868.0,Net Banking,Delivered,Hyderabad,2026-03-30,2026-03-31
+189,501a7e1a,Keyboard,Electronics,3.0,44100.0,132300.0,Net Banking,Returned,Mumbai,2025-04-26,2024-06-23
+191,fb9d0a71,Keyboard,Electronics,5.0,23207.0,116035.0,UPI,Shipped,Bangalore,2025-01-22,2025-07-16
+192,c3fcf6ca,Tablet,Electronics,4.0,78540.0,314160.0,Credit Card,Cancelled,Delhi,2025-02-10,2026-05-17
+193,5cc698a1,Mouse,Electronics,3.0,44014.0,132042.0,UPI,Delivered,Mumbai,2025-10-17,2024-12-28
+195,381829cb,Headphones,Electronics,3.0,56521.0,169563.0,Credit Card,Returned,Chennai,2024-07-14,2024-12-27
+196,ac5c7b27,Speaker,Mobile,2.0,52972.0,105944.0,COD,Cancelled,Bangalore,2026-05-16,2024-09-03
+197,722a56cc,Laptop,Accessories,4.0,18591.0,74364.0,COD,Pending,Pune,2024-06-24,2026-03-11
+199,4f961a60,Keyboard,Accessories,2.0,10257.0,20514.0,Credit Card,Cancelled,Pune,2025-02-09,2025-11-29
+200,a3c524e9,Mouse,Accessories,2.0,24230.0,48460.0,UPI,Cancelled,Mumbai,2024-07-28,2025-06-04
+201,a6bfe310,Tablet,Audio,3.0,48510.0,145530.0,Net Banking,Shipped,Pune,2024-09-29,2025-08-09
+204,822729d0,Webcam,Mobile,5.0,71033.0,355165.0,Credit Card,Cancelled,Bangalore,2025-05-11,2025-07-22
+206,9e9beef1,Webcam,Mobile,2.0,45350.0,90700.0,Net Banking,Returned,Pune,2025-06-19,2024-07-07
+207,646c1168,Smartphone,Computers,5.0,18693.0,93465.0,Credit Card,Cancelled,Pune,2026-03-31,2025-09-07
+211,2b7108c7,Keyboard,Audio,1.0,45112.0,45112.0,Credit Card,Cancelled,Delhi,2026-05-03,2025-07-04
+212,a08c9a3c,Headphones,Electronics,2.0,73430.0,146860.0,UPI,Shipped,Delhi,2024-11-12,2026-05-06
+213,58fd273c,Speaker,Computers,3.0,26512.0,79536.0,UPI,Shipped,Hyderabad,2026-03-18,2025-08-20
+216,e8f10be8,Monitor,Electronics,5.0,39878.0,199390.0,Debit Card,Delivered,Mumbai,2025-05-01,2025-08-12
+217,89cc3c5a,Mouse,Electronics,2.0,36592.0,73184.0,Credit Card,Delivered,Pune,2025-07-03,2026-01-24
+221,c8409186,Laptop,Computers,3.0,33657.0,100971.0,UPI,Delivered,Hyderabad,2025-03-23,2025-04-18
+222,14cf3df5,Headphones,Mobile,3.0,65374.0,196122.0,Debit Card,Cancelled,Pune,2025-01-10,2024-07-07
+223,b88f49e6,Speaker,Mobile,4.0,68981.0,275924.0,Net Banking,Pending,Mumbai,2024-07-04,2026-02-09
+226,e2df5bc5,Laptop,Electronics,5.0,63031.0,315155.0,Net Banking,Cancelled,Bangalore,2026-06-10,2024-12-17
+227,3640d873,Printer,Audio,2.0,77943.0,155886.0,Net Banking,Pending,Pune,2024-08-19,2025-03-12
+228,7a1f5449,Keyboard,Computers,2.0,57445.0,114890.0,COD,Pending,Delhi,2025-10-15,2026-03-18
+229,386f07d7,Keyboard,Computers,2.0,26719.0,53438.0,Net Banking,Returned,Pune,2025-01-02,2025-05-07
+230,2e413c03,Smartphone,Accessories,3.0,34175.0,102525.0,COD,Pending,Pune,2024-10-13,2024-11-08
+231,21de3af4,Laptop,Mobile,5.0,59211.0,296055.0,COD,Cancelled,Bangalore,2025-02-03,2025-08-20
+235,9388cbce,Laptop,Accessories,3.0,78222.0,234666.0,Credit Card,Delivered,Hyderabad,2024-10-31,2025-06-25
+236,41fb60e9,Speaker,Accessories,3.0,33638.0,100914.0,Net Banking,Pending,Hyderabad,2024-08-03,2024-08-24
+237,b6f54d3f,Monitor,Audio,3.0,10880.0,32640.0,Credit Card,Cancelled,Hyderabad,2026-05-14,2025-05-15
+238,f982b85d,Printer,Computers,2.0,58156.0,116312.0,UPI,Shipped,Chennai,2024-08-03,2024-07-31
+239,d18d27b0,Keyboard,Accessories,3.0,11812.0,35436.0,COD,Cancelled,Chennai,2025-09-12,2024-11-25
+241,6a4a9e5a,Webcam,Computers,3.0,51616.0,154848.0,Debit Card,Shipped,Mumbai,2024-12-16,2024-10-03
+242,c61535bd,Tablet,Accessories,3.0,13422.0,40266.0,Debit Card,Cancelled,Chennai,2024-08-07,2025-01-25
+247,faaee7bf,Smartphone,Audio,4.0,23649.0,94596.0,COD,Pending,Delhi,2024-11-25,2024-11-12
+248,26680c09,Speaker,Mobile,2.0,3144.0,6288.0,UPI,Shipped,Pune,2025-10-09,2026-03-26
+250,eb8bd629,Speaker,Mobile,4.0,36771.0,147084.0,Net Banking,Cancelled,Pune,2025-10-21,2026-03-29
+255,2b83ad96,Smartphone,Mobile,5.0,51813.0,259065.0,COD,Returned,Chennai,2025-10-07,2024-10-09
+256,93d9deaf,Laptop,Mobile,2.0,34244.0,68488.0,UPI,Cancelled,Bangalore,2025-04-16,2025-06-28
+257,1033e4a6,Mouse,Mobile,2.0,40947.0,81894.0,COD,Pending,Mumbai,2025-10-20,2026-01-09
+258,b2fe019e,Headphones,Accessories,3.0,19468.0,58404.0,UPI,Returned,Pune,2026-04-14,2024-06-21
+259,005f1f6d,Tablet,Accessories,2.0,28228.0,56456.0,COD,Shipped,Pune,2024-09-30,2026-03-13
+265,7fd2e2bc,Monitor,Accessories,4.0,63636.0,254544.0,Net Banking,Cancelled,Hyderabad,2025-10-07,2025-07-19
+268,d71e85a0,Headphones,Mobile,4.0,15489.0,61956.0,Credit Card,Shipped,Hyderabad,2024-10-26,2024-10-21
+269,56cea3cb,Keyboard,Audio,2.0,14712.0,29424.0,Debit Card,Delivered,Mumbai,2024-11-07,2025-07-01
+274,3c4eea89,Laptop,Mobile,2.0,74663.0,149326.0,COD,Delivered,Hyderabad,2024-10-25,2025-11-28
+278,07944f88,Laptop,Computers,5.0,63705.0,318525.0,Credit Card,Pending,Delhi,2025-07-28,2024-11-02
+280,afb64b79,Smartphone,Audio,1.0,38407.0,38407.0,Credit Card,Cancelled,Hyderabad,2026-04-03,2024-08-31
+282,61f1ceef,Mouse,Mobile,5.0,42782.0,213910.0,COD,Delivered,Bangalore,2025-05-10,2026-01-03
+284,a5e7662e,Headphones,Electronics,3.0,45923.0,137769.0,Net Banking,Returned,Hyderabad,2025-04-08,2025-02-13
+287,46b528d5,Printer,Accessories,2.0,11689.0,23378.0,Credit Card,Shipped,Mumbai,2026-05-14,2026-05-06
+288,f7de4004,Keyboard,Accessories,4.0,28549.0,114196.0,Net Banking,Delivered,Delhi,2025-06-11,2025-11-03
+289,c2772046,Monitor,Computers,3.0,953.0,2859.0,COD,Shipped,Hyderabad,2025-03-06,2025-03-11
+293,b1c10928,Laptop,Computers,3.0,24432.0,73296.0,Net Banking,Shipped,Bangalore,2025-09-21,2026-02-24
+294,aa85ad7f,Laptop,Mobile,4.0,72022.0,288088.0,Net Banking,Pending,Mumbai,2024-07-02,2025-06-19
+297,6513f14a,Mouse,Audio,2.0,25245.0,50490.0,Net Banking,Cancelled,Delhi,2025-01-08,2025-02-16
+298,e3d4da88,Webcam,Accessories,4.0,16047.0,64188.0,Net Banking,Shipped,Chennai,2025-03-28,2026-03-01
+299,81d034a1,Headphones,Accessories,5.0,55066.0,275330.0,COD,Returned,Delhi,2025-11-24,2024-09-11
+300,1e29dcbd,Printer,Audio,2.0,65633.0,131266.0,UPI,Pending,Delhi,2026-01-19,2026-01-10
+301,106cf783,Mouse,Accessories,1.0,78481.0,78481.0,Net Banking,Returned,Pune,2025-02-08,2024-11-07
+303,90dac21a,Keyboard,Accessories,4.0,26013.0,104052.0,Net Banking,Cancelled,Hyderabad,2026-05-26,2024-11-18
+304,14572838,Headphones,Electronics,3.0,44244.0,132732.0,Credit Card,Returned,Hyderabad,2025-09-24,2025-12-16
+305,fe6ced9b,Tablet,Accessories,1.0,25457.0,25457.0,Net Banking,Delivered,Bangalore,2025-04-04,2024-12-09
+306,9c06756e,Laptop,Audio,4.0,34216.0,136864.0,Debit Card,Pending,Bangalore,2025-02-13,2025-01-15
+308,a6adefb6,Monitor,Accessories,5.0,5332.0,26660.0,Debit Card,Returned,Chennai,2025-08-04,2024-09-23
+309,db866429,Laptop,Electronics,1.0,79758.0,79758.0,UPI,Shipped,Chennai,2024-06-26,2025-05-04
+310,2019daa7,Speaker,Audio,2.0,63559.0,127118.0,COD,Shipped,Pune,2026-04-21,2025-01-05
+312,40f434c7,Mouse,Mobile,2.0,36522.0,73044.0,COD,Cancelled,Bangalore,2025-06-14,2025-12-14
+313,3aa3601b,Laptop,Electronics,3.0,33033.0,99099.0,UPI,Delivered,Delhi,2024-12-09,2024-10-25
+314,9197c70e,Keyboard,Accessories,2.0,9172.0,18344.0,COD,Shipped,Pune,2024-08-29,2024-10-04
+315,75ea6591,Tablet,Mobile,5.0,37451.0,187255.0,Debit Card,Pending,Pune,2025-07-02,2025-08-13
+316,985669f1,Mouse,Electronics,1.0,38770.0,38770.0,Net Banking,Shipped,Pune,2025-07-04,2025-07-18
+317,afc3e01d,Webcam,Accessories,1.0,59365.0,59365.0,UPI,Pending,Chennai,2026-02-27,2025-09-03
+318,204f4ae9,Mouse,Electronics,4.0,78221.0,312884.0,COD,Cancelled,Delhi,2025-11-03,2026-02-24
+320,fd0a6d67,Headphones,Accessories,1.0,25463.0,25463.0,Debit Card,Returned,Mumbai,2025-03-01,2024-10-10
+323,60bbd85f,Laptop,Computers,4.0,79169.0,316676.0,Debit Card,Pending,Mumbai,2026-04-03,2024-10-20
+324,bc64ccc6,Tablet,Audio,3.0,7114.0,21342.0,Net Banking,Delivered,Chennai,2024-08-03,2024-08-09
+325,55b05f54,Mouse,Mobile,2.0,41729.0,83458.0,Debit Card,Delivered,Delhi,2024-07-27,2024-09-16
+326,cde3c569,Tablet,Mobile,5.0,70273.0,351365.0,Credit Card,Pending,Hyderabad,2025-09-25,2024-11-18
+329,cf5c198a,Printer,Computers,5.0,19981.0,99905.0,UPI,Cancelled,Pune,2025-02-03,2025-10-01
+331,88824595,Webcam,Audio,4.0,30477.0,121908.0,Debit Card,Returned,Hyderabad,2026-03-18,2025-07-02
+332,c6632183,Keyboard,Electronics,2.0,20142.0,40284.0,Credit Card,Returned,Delhi,2025-05-18,2025-04-20
+333,59eed343,Speaker,Accessories,5.0,67265.0,336325.0,Net Banking,Delivered,Chennai,2025-09-13,2026-03-26
+335,b7c20c7f,Webcam,Accessories,2.0,35225.0,70450.0,Net Banking,Cancelled,Mumbai,2024-09-20,2025-11-15
+337,0669f224,Smartphone,Computers,3.0,12710.0,38130.0,Debit Card,Shipped,Delhi,2024-07-17,2024-07-02
+339,7b4e07c4,Webcam,Mobile,1.0,38946.0,38946.0,Credit Card,Delivered,Pune,2025-07-28,2026-01-24
+340,aff22fc2,Headphones,Audio,5.0,50554.0,252770.0,COD,Shipped,Hyderabad,2025-07-08,2025-12-14
+341,65273287,Speaker,Electronics,2.0,54271.0,108542.0,Net Banking,Cancelled,Chennai,2026-05-07,2025-04-08
+343,4e773396,Keyboard,Mobile,5.0,18614.0,93070.0,Credit Card,Cancelled,Chennai,2024-09-19,2024-10-31
+344,35a8d192,Mouse,Audio,5.0,21332.0,106660.0,Credit Card,Shipped,Delhi,2025-03-14,2025-08-24
+345,6d7bf47b,Speaker,Computers,3.0,7323.0,21969.0,COD,Cancelled,Mumbai,2026-05-20,2024-09-10
+346,5a0329f4,Tablet,Accessories,3.0,66467.0,199401.0,Credit Card,Delivered,Mumbai,2025-09-28,2025-10-21
+347,d38f88ee,Laptop,Mobile,5.0,15136.0,75680.0,Net Banking,Returned,Hyderabad,2026-04-17,2024-06-28
+348,979a9294,Tablet,Mobile,3.0,72625.0,217875.0,UPI,Returned,Mumbai,2024-10-02,2025-07-10
+350,d446138c,Smartphone,Accessories,3.0,64606.0,193818.0,UPI,Cancelled,Pune,2025-06-13,2024-06-13
+352,a1b9408e,Smartphone,Audio,2.0,61458.0,122916.0,Credit Card,Returned,Chennai,2026-01-17,2024-06-21
+354,21155f82,Headphones,Accessories,2.0,73645.0,147290.0,Debit Card,Returned,Chennai,2025-01-27,2026-05-28
+355,bb63a070,Monitor,Mobile,3.0,43000.0,129000.0,Debit Card,Shipped,Hyderabad,2025-05-11,2025-02-26
+356,0e4b9f8d,Mouse,Electronics,3.0,34011.0,102033.0,Debit Card,Delivered,Pune,2024-06-17,2025-09-23
+357,da7a980e,Printer,Mobile,1.0,61449.0,61449.0,Credit Card,Pending,Mumbai,2026-03-14,2024-06-18
+358,24beafdf,Smartphone,Mobile,5.0,14402.0,72010.0,Debit Card,Shipped,Delhi,2026-02-15,2026-04-07
+359,26932d4c,Webcam,Electronics,1.0,50706.0,50706.0,Net Banking,Shipped,Chennai,2025-05-14,2026-01-12
+360,6e7cf693,Printer,Computers,4.0,66023.0,264092.0,UPI,Delivered,Chennai,2025-03-26,2025-05-13
+362,ca6a5eb6,Headphones,Audio,3.0,9519.0,28557.0,UPI,Cancelled,Bangalore,2024-11-19,2026-03-06
+363,f4bcc548,Webcam,Computers,2.0,75977.0,151954.0,COD,Cancelled,Bangalore,2025-06-08,2026-05-29
+364,70db617c,Tablet,Electronics,1.0,16989.0,16989.0,Net Banking,Delivered,Mumbai,2025-06-26,2025-08-30
+365,53bcb1b3,Keyboard,Audio,5.0,43762.0,218810.0,Credit Card,Delivered,Pune,2025-12-18,2025-05-06
+368,09f7d3ee,Headphones,Computers,3.0,33462.0,100386.0,COD,Delivered,Mumbai,2026-02-07,2024-12-13
+369,20872155,Webcam,Electronics,4.0,48488.0,193952.0,Credit Card,Returned,Bangalore,2026-03-25,2024-10-16
+370,e0ba6fe9,Tablet,Mobile,3.0,17831.0,53493.0,Debit Card,Shipped,Pune,2026-02-26,2026-03-16
+371,25102cb6,Monitor,Accessories,2.0,52549.0,105098.0,Credit Card,Pending,Delhi,2024-10-02,2026-04-05
+373,9b49744c,Laptop,Computers,1.0,29999.0,29999.0,Debit Card,Shipped,Hyderabad,2025-01-14,2024-12-15
+376,1a343fe1,Speaker,Electronics,1.0,50311.0,50311.0,Net Banking,Returned,Delhi,2025-04-08,2026-05-26
+379,c17d6423,Headphones,Accessories,5.0,55392.0,276960.0,Credit Card,Returned,Hyderabad,2025-10-07,2025-02-20
+380,797df41a,Smartphone,Electronics,5.0,12093.0,60465.0,COD,Cancelled,Chennai,2025-12-04,2025-02-03
+385,3262f648,Speaker,Accessories,5.0,8237.0,41185.0,COD,Delivered,Bangalore,2026-04-26,2025-12-29
+387,a5602c6e,Printer,Accessories,4.0,35202.0,140808.0,Net Banking,Delivered,Mumbai,2026-05-18,2025-09-09
+389,f63973dc,Monitor,Electronics,2.0,42286.0,84572.0,Net Banking,Returned,Hyderabad,2025-03-16,2026-03-12
+390,f0d5fd33,Monitor,Audio,3.0,79006.0,237018.0,UPI,Pending,Pune,2025-11-18,2025-04-11
+391,b13533c9,Tablet,Audio,5.0,13870.0,69350.0,Net Banking,Shipped,Pune,2025-07-19,2025-05-02
+393,6d186258,Tablet,Electronics,4.0,51899.0,207596.0,Net Banking,Delivered,Bangalore,2025-09-02,2025-11-07
+398,32aabd39,Mouse,Computers,3.0,32196.0,96588.0,COD,Delivered,Pune,2025-10-04,2024-09-13
+400,d075bb91,Keyboard,Mobile,2.0,3327.0,6654.0,Debit Card,Pending,Pune,2024-11-15,2026-02-14
+57,9625b6d2,Speaker,Electronics,5.0,78462.0,392310.0,Debit Card,Cancelled,Mumbai,2025-11-12,2025-09-27
+279,ec87e901,Keyboard,Computers,1.0,42106.0,42106.0,Debit Card,Pending,Bangalore,2024-09-04,2024-10-13
+392,8bb8d01a,Mouse,Audio,2.0,57715.0,115430.0,UPI,Returned,Bangalore,2025-05-28,2025-10-08
+272,ccb5d1a8,Keyboard,Audio,2.0,60722.0,121444.0,UPI,Pending,Delhi,2025-05-03,2025-08-22
+115,39e7b952,Headphones,Accessories,2.0,63718.0,127436.0,Debit Card,Returned,Delhi,2025-02-09,2024-09-02
+194,bd0d3298,Printer,Accessories,4.0,76640.0,306560.0,COD,Returned,Hyderabad,2025-12-30,2025-05-19
+262,1c3fe3e9,Headphones,Mobile,1.0,22937.0,22937.0,Debit Card,Shipped,Mumbai,2024-09-29,2026-04-28
+114,45b9134f,Keyboard,Accessories,2.0,61973.0,123946.0,Credit Card,Pending,Hyderabad,2025-10-10,2025-10-07
+182,0b4c0c4f,Speaker,Mobile,2.0,77991.0,155982.0,Net Banking,Pending,Delhi,2024-08-19,2024-10-08
+47,6d41cee1,Tablet,Audio,2.0,76331.0,152662.0,UPI,Shipped,Delhi,2024-11-19,2025-02-27
+40,8d268d6e,Headphones,Audio,1.0,50258.0,50258.0,UPI,Returned,Delhi,2025-09-25,2024-10-31
+102,9e7477ab,Printer,Mobile,1.0,29536.0,29536.0,COD,Pending,Chennai,2024-11-04,2024-12-07
+395,4d8224df,Webcam,Accessories,2.0,69882.0,139764.0,Net Banking,Cancelled,Chennai,2025-02-26,2025-08-18
+177,06aae06f,Monitor,Computers,1.0,77645.0,77645.0,Debit Card,Pending,Pune,2025-12-04,2025-09-04
+251,8b9260da,Printer,Electronics,2.0,38680.0,77360.0,COD,Shipped,Mumbai,2026-04-05,2025-10-31
+302,a44e6db3,Monitor,Electronics,1.0,9195.0,9195.0,UPI,Delivered,Hyderabad,2025-05-05,2026-05-11
+374,1209dd20,Speaker,Accessories,1.0,41207.0,41207.0,Credit Card,Pending,Hyderabad,2026-03-18,2025-05-30
